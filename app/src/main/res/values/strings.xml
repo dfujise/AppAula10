@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppAula10</string>
+
+    <string-array name="frutas_array">
+        <item>maça</item>
+        <item>morango</item>
+        <item>pera</item>
+        <item>abacaxi</item>
+    </string-array>
+</resources>
